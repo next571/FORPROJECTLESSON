@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>КОМПЬЮТЕР</item>
+        <item>ПРОГРАММИРОВАНИЕ</item>
+        <item>САМОЛЕТ</item>
+        <item>ПРИЛОЖЕНИЕ</item>
+        <item>ПРЯМОУГОЛЬНИК</item>
+        <item>ИНТЕРНЕТ</item>
+        <item>КОСМОНАВТ</item>
+        <item>АВТОМАТ</item>
+        <item>ВИСЕЛИЦА</item>
+        <item>СМАРТФОН</item>
+        <item>КЛАВИАТУРА</item>
+        <item>АНИМЕ</item>
+
+    </string-array>
+</resources>
