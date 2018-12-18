@@ -1,2 +1,2 @@
 # ForProjectLesson
-simple hangman created with tutorial
+simple hangman 
